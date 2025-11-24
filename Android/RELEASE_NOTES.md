@@ -1,7 +1,7 @@
 # NodeVault Android v1.0.0 Release Notes
 
 ## 📅 发布日期
-2024年11月24日
+2025年11月24日
 
 ## 🎉 版本亮点
 
@@ -45,7 +45,6 @@ NodeVault Android v1.0.0 是我们全新品牌重塑后的首个正式版本！�
   - 确保网络状态正确更新
 
 ### 🎨 UI/UX改进
-- **设置页面优化**: 移除不必要的TokenScript兼容性显示
 - **错误提示改进**: 更清晰的认证失败提示信息
 - **状态同步**: 修复各种UI状态同步问题
 
@@ -75,7 +74,7 @@ NodeVault Android v1.0.0 是我们全新品牌重塑后的首个正式版本！�
 - **架构支持**: ARM64, ARM32, x86, x86_64
 
 ### 网络兼容性
-- **主网**: Ethereum, Polygon, BSC, Avalanche, Fantom, Arbitrum, Optimism
+- **主网**: Dolphinet, Ethereum, Polygon, BSC, Avalanche, Fantom, Arbitrum, Optimism
 - **Layer 2**: 完整的二层网络支持
 - **测试网**: 完整的开发环境支持
 
@@ -83,16 +82,11 @@ NodeVault Android v1.0.0 是我们全新品牌重塑后的首个正式版本！�
 
 ## 🚀 安装方式
 
-### Google Play Store
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-     alt="Google Play Store"
-     height="60">](https://play.google.com/store/apps/details?id=io.nodevault.wallet)
-
 ### APK直接下载
 - **文件名**: `nodevault-android-v1.0.0.apk`
 - **文件大小**: ~25MB
-- **MD5**: `请在发布时计算并填写`
-- **SHA256**: `请在发布时计算并填写`
+- **MD5**: ``
+- **SHA256**: ``
 
 ---
 
@@ -100,7 +94,7 @@ NodeVault Android v1.0.0 是我们全新品牌重塑后的首个正式版本！�
 
 ### 从AlphaWallet迁移
 1. **备份钱包**: 确保所有私钥和助记词已安全备份
-2. **卸载旧版**: 移除 AlphaWallet 应用
+2. **卸载旧版**: 移除 NodeVault 应用
 3. **安装新版**: 下载并安装 NodeVault
 4. **恢复钱包**: 使用备份的助记词恢复钱包
 5. **验证资产**: 检查所有代币和NFT是否正确显示
@@ -155,7 +149,7 @@ NodeVault Android v1.0.0 是我们全新品牌重塑后的首个正式版本！�
 ## 📞 支持与反馈
 
 ### 获取帮助
-- **📧 技术支持**: support@nodevault.com
+- **📧 技术支持**: 
 - **🐛 Bug报告**: [GitHub Issues](https://github.com/Virtual-Mind-HongKong/NodeVault-Android/issues)
 - **💬 社区讨论**: [Discord](https://discord.gg/mx23YWRTYf)
 - **📖 文档中心**: [docs.nodevault.com](https://docs.nodevault.com)
@@ -223,7 +217,7 @@ NodeVault Android v1.0.0 是我们全新品牌重塑后的首个正式版本！�
 
 **Built with ❤️ by the NodeVault Team**
 
-*2024年11月24日 - 香港*
+*2025年11月24日 - 香港*
 
 </div>
 
